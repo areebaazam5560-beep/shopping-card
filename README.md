@@ -1,9 +1,6 @@
 #  Shopping Cart Application
-
 A simple, interactive, and responsive **Shopping Cart** web application built using HTML, CSS, and JavaScript.
-
 ## Features
-
  **Product Listing:** Display available items with titles, images, and prices.
  **Add to Cart:** Dynamically add products to the shopping cart.
 **Quantity & Price Updates:** Automatically updates the total price and item quantity in real-time.
@@ -11,9 +8,9 @@ A simple, interactive, and responsive **Shopping Cart** web application built us
  **Responsive Design:** Optimized for both mobile devices and desktop screens.
 ## Technologies
 
-**HTML
-**CSS
-**JavaScript
+HTML
+CSS
+JavaScript
 **Repositery**
  https://github.com/areebaazam5560-beep/shopping-card.git
 **Github**
